@@ -1,0 +1,3 @@
+[submodule "projects/guessing_game"]
+	path = projects/guessing_game
+	url = https://github.com/elotech47/my_rust_journey.git
